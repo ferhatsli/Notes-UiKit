@@ -7,3 +7,41 @@
 */
 
 
+/* Ana Ekran */
+"notes_title" = "Notlar";
+"add_note" = "Yeni not oluştur";
+"search_placeholder" = "Notlarda ara...";
+
+/* Empty State */
+"empty_title" = "Henüz not yok";
+"empty_subtitle" = "+ ile yeni bir not ekleyin";
+"empty_button" = "Yeni Not Oluştur";
+
+/* Editor */
+"new_note_title" = "Yeni Not";
+"edit_note_title" = "Notu Düzenle";
+"title_placeholder" = "Başlık";
+"content_placeholder" = "Notunuzu yazın...";
+"save" = "Kaydet";
+"cancel" = "İptal";
+
+/* Alerts */
+"error" = "Hata";
+"title_empty_error" = "Başlık boş olamaz.";
+"ok" = "Tamam";
+"unsaved_changes_title" = "Değişiklikleri Kaydetmeden Çık";
+"unsaved_changes_message" = "Yaptığınız değişiklikler kaybedilecek. Emin misiniz?";
+"discard_changes" = "Kaydetmeden Çık";
+
+/* Accessibility */
+"last_updated" = "Son güncelleme";
+"double_tap_to_edit" = "Notu düzenlemek için çift dokunun";
+"note_title_field" = "Not başlığı";
+"note_content_field" = "Not içeriği";
+"enter_title_hint" = "Notunuzun başlığını girin";
+"enter_content_hint" = "Notunuzun içeriğini yazın";
+"cancel_hint" = "Değişiklikleri iptal et";
+"save_hint" = "Notu kaydet ve geri dön";
+
+/* Content */
+"no_content" = "İçerik yok";

@@ -5,3 +5,43 @@
   Created by Ferhat Taşlı on 13.08.2025.
   
 */
+
+
+/* Main Screen */
+"notes_title" = "Notes";
+"add_note" = "Create new note";
+"search_placeholder" = "Search notes...";
+
+/* Empty State */
+"empty_title" = "No notes yet";
+"empty_subtitle" = "Tap + to create a new note";
+"empty_button" = "Create New Note";
+
+/* Editor */
+"new_note_title" = "New Note";
+"edit_note_title" = "Edit Note";
+"title_placeholder" = "Title";
+"content_placeholder" = "Write your note...";
+"save" = "Save";
+"cancel" = "Cancel";
+
+/* Alerts */
+"error" = "Error";
+"title_empty_error" = "Title cannot be empty.";
+"ok" = "OK";
+"unsaved_changes_title" = "Discard Changes";
+"unsaved_changes_message" = "Your changes will be lost. Are you sure?";
+"discard_changes" = "Discard Changes";
+
+/* Accessibility */
+"last_updated" = "Last updated";
+"double_tap_to_edit" = "Double tap to edit note";
+"note_title_field" = "Note title";
+"note_content_field" = "Note content";
+"enter_title_hint" = "Enter your note title";
+"enter_content_hint" = "Write your note content";
+"cancel_hint" = "Cancel changes";
+"save_hint" = "Save note and go back";
+
+/* Content */
+"no_content" = "No content";
