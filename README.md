@@ -11,6 +11,38 @@ A comprehensive note-taking application built with UIKit, demonstrating modern i
 
 This project showcases a production-ready notes application with full CRUD functionality, real-time synchronization, accessibility features, and internationalization support. Built entirely with UIKit and following iOS best practices.
 
+## 📱 Screenshots
+
+### Core Features
+<div align="center">
+
+| Turkish Interface | English Interface | Live Search |
+|:---:|:---:|:---:|
+| ![Turkish Home](screenshots/tr-home.png) | ![English Home](screenshots/en-home.png) | ![Search](screenshots/search.png) |
+| *Localized Turkish interface* | *Localized English interface* | *Real-time search filtering* |
+
+</div>
+
+### Note Management
+<div align="center">
+
+| Create New Note | Edit Existing Note | Swipe to Delete |
+|:---:|:---:|:---:|
+| ![New Note](screenshots/new-note.png) | ![Edit Note](screenshots/edit-note.png) | ![Deleting](screenshots/deleting.png) |
+| *Clean note creation form* | *Edit mode with validation* | *Intuitive swipe gesture* |
+
+</div>
+
+### User Experience
+<div align="center">
+
+| After Deletion |
+|:---:|
+| ![Deleted](screenshots/deleted.png) |
+| *Clean state after deletion* |
+
+</div>
+
 ## ✨ Key Features
 
 ### Core Functionality
